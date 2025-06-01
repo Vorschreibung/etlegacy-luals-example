@@ -21,7 +21,7 @@ e.g. get `vscode`, install the luals extension:
 `$ code .` and check [`./example.lua`](./example.lua) for some warnings/errors, jump to etc.
 
 ## Quickstarting/testing the lua script
-run e.g. `./quickstart.py "$(which etl.x86_64)" "$HOME/.etlegacy"`
+run e.g. `$ ./quickstart.py "$(which etl.x86_64)" "$HOME/.etlegacy"`
 
 the console output should entail `[luals-example]` messages printed by the
 example lua script
